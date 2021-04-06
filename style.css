@@ -1,0 +1,124 @@
+body {
+  background-color: white;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+.search-form {
+  border: 1px solid #dfe1e5;
+  padding: 15px 15px;
+  border-radius: 15px 15px 15px 15px;
+  width: 500px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#gmail {
+  margin-left: 8px;
+  font-size: 14px;
+}
+
+#images {
+  margin: 0px 8px 0px 8px;
+  font-size: 14px;
+}
+
+.blue-button {
+  background-color: #2B7DE9;
+  color: white;
+  padding: 9px 15px;
+  text-decoration: none;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.search-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 6px;
+
+}
+.recherche {
+  background-color: #F8F9FA;
+  padding: 8px 8px;
+  border: 1px solid #F2F2F2;
+  border-radius: 3px;
+  margin-right: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+.chance {
+  background-color: #F8F9FA;
+  padding: 8px 8px;
+  border: 1px solid #F2F2F2;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
+
+.footer {
+  background: #F4F4F4;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+.france {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  color: black;
+  width: 100%;
+  padding: 12px;
+}
+
+.links {
+  position: absolute;
+  bottom: 0px;
+}
+
+#propos {
+  margin-right: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+#publicité {
+  margin-right: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+#entreprise {
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+#fonctionnement {
+  margin-right: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
